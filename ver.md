@@ -1,0 +1,3 @@
+Initially, the High Risk Rate table in ISS and the Change of Nature Exception table had the updated natures (82) activated, while the previous 134 natures were deactivated in QA. However, these changes have not yet been updated in UAT.
+
+A comparison was conducted between the calculations using the old nature values, which result in higher notional values, and the updated nature values. The updated version will be shared with the FX Products team for further review. The FX Products team will confirm with the GFC team before proceeding with the updates to UAT and PROD environments.
