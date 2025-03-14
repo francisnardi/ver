@@ -1,0 +1,1 @@
+Change of the Brazilian tax ID (CNPJ) pattern from numeric (where applicable) to alphanumeric, and analysis of the systems affecting and affected by us.
